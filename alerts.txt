@@ -1,0 +1,4 @@
+LOW STOCK ALERT: Battery Pack stock is low (6 units)
+LOW STOCK ALERT: Heat Pump stock is low (2 units)
+LOW STOCK ALERT: Solar Panel stock is low (3 units)
+OVERDUE INVOICE ALERT: Invoice 4 for Order 4 from EcoSmart Vendors was due 2025-07-25
